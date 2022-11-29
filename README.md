@@ -1,6 +1,4 @@
 ## Viruses
-### From Tiktok
-These are Virus files I have made in videos.
 
 ---
 
